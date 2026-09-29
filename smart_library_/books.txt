@@ -1,0 +1,6 @@
+1|Python Basics|John Smith|yes
+2|Learn C Programming|Jane Doe|yes
+3|HTML for Beginners|Mark Lee|yes
+4|Clean Code|Robert Martin|yes
+5|pithon|d laxmi|no
+6|thomas calculus by thomas|th|no
